@@ -1,0 +1,29 @@
+h1 {
+    font-size: 40px; color: white; 
+  } 
+  
+  .text1{
+    font-size: 40px;
+  } 
+  .text2, .text3, p.paragraph{
+    font-family: Helvetica;
+  }
+  .text3, .text2, p.paragraph{
+    font-size: 30px;
+  }
+  p.paragraph{
+    font-style: italic;
+  }
+  
+  .text1, .text2, p.paragraph 
+  {text-align: center;}
+  
+  
+  body {
+    background-color: gray; 
+  }
+  
+  p, h3, .h3, ul, .h2, h2  {color: white;}
+  
+  p.paragraph2, .bullets, .text3{padding: 10px 5%;}
+  p.paragraph{margin: 5px;}
